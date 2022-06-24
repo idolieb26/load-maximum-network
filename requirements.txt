@@ -1,0 +1,11 @@
+black
+descartes
+flake8
+isort
+jupyterlab
+nbqa
+osmnx==1.2.1
+pillow
+python-igraph
+scipy
+scikit-learn
